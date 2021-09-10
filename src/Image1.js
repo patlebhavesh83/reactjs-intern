@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./styles";
+
 import { Container } from "react-bootstrap";
 import img2 from "./img2.png";
 import "./common.css";
